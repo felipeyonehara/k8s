@@ -1,4 +1,4 @@
-# Kubernetes repo
+# Kubernetes repository
 
 
 # Ampernetacle
